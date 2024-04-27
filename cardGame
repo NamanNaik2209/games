@@ -1,6 +1,7 @@
 
 
-
+#This is a comment 
+#Added new comments 
 class Card:
     suits = ["spades",
              "hearts",
