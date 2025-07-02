@@ -1,4 +1,40 @@
-from itertools import cycle
+#asdfasdfasdfas
+#sdfgdsfg
+#tetwtasfsdfasdfasdf
+#sdfg
+#dsfgdsfg
+#sdfg
+#dsfgsdg
+#sdfgsdfg
+#dsfgsdfg
+#sdfgdsfg
+#sdfgdsfgsdfg
+#This is a comment 
+#Added new comments #asdfasdfasdfas
+#sdfgdsfg
+#tetwtasfsdfasdfasdf
+#sdfg
+#dsfgdsfg
+#sdfg
+#dsfgsdg
+#sdfgsdfg
+#dsfgsdfg
+#sdfgdsfg
+#sdfgdsfgsdfg
+#This is a comment 
+#Added new comments #asdfasdfasdfas
+#sdfgdsfg
+#tetwtasfsdfasdfasdf
+#sdfg
+#dsfgdsfg
+#sdfg
+#dsfgsdg
+#sdfgsdfg
+#dsfgsdfg
+#sdfgdsfg
+#sdfgdsfgsdfg
+#This is a comment 
+#Added new comments from itertools import cycle
 from random import randrange
 from tkinter import Canvas, Tk, messagebox, font
 #asdfasfasfasfdasfasdf
